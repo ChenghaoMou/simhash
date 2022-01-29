@@ -1,0 +1,2 @@
+# simhash
+Simhash in C++
